@@ -1,0 +1,19 @@
+# Исполняемые файлы и объектные файлы
+*.exe
+*.obj
+*.o
+
+# Файлы IDE
+.vs/
+.vscode/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Временные файлы
+*.tmp
+*.log
+
+# Тестовые файлы
+output.txt
